@@ -3,6 +3,7 @@ import re
 import time
 import requests
 
+#Autor: Javier Justo
 
 url = 'https://datos.vigo.org/data/trafico/treal_congestion.json'
 
